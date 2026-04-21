@@ -6,11 +6,11 @@ Connects to multiple databases(Postgres, MySQL, BigQuery etc,
 Secure SQL validation (read-only, table whitelist, enforced LIMIT)
 
 ## Project Structure
-text-to-sql-system/
+`text-to-sql-system/
 ├── .env                  # DB connection strings and secrets
 ├── main.py               # API endpoints (included in app.py)
 └── frontend/
-    └── app.py            # Streamlit UI
+    └── app.py            # Streamlit UI`
 
 ## Quickstart Guide
 1. **Install dependencies**
